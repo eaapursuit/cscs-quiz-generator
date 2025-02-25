@@ -1,0 +1,93 @@
+[
+  {
+    "difficulty": "Easy",
+    "question": "What is the primary role of calcium in muscle contraction?",
+    "options": {
+      "A": "To provide energy for contraction",
+      "B": "To bind with troponin and enable crossbridge formation",
+      "C": "To directly pull on actin filaments",
+      "D": "To break down ATP molecules"
+    },
+    "correct_answer": "B",
+    "explanation": "Calcium binds with troponin, which causes a shift in tropomyosin and exposes binding sites on actin, allowing myosin crossbridges to attach and generate force.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the function of the motor unit?",
+    "options": {
+      "A": "To store calcium in muscle fibers",
+      "B": "To generate ATP for muscle contraction",
+      "C": "To control a group of muscle fibers through a single motor neuron",
+      "D": "To pump blood through the circulatory system"
+    },
+    "correct_answer": "C",
+    "explanation": "A motor unit consists of a single motor neuron and all the muscle fibers it innervates. All fibers in a motor unit contract together when stimulated by their motor neuron.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What characterizes Type IIx muscle fibers compared to Type I fibers?",
+    "options": {
+      "A": "Higher fatigue resistance and slower contraction speed",
+      "B": "Lower anaerobic power and higher oxidative capacity",
+      "C": "Higher force production and faster contraction speed",
+      "D": "Lower power output and higher capillary density"
+    },
+    "correct_answer": "C",
+    "explanation": "Type IIx fibers have higher force production and faster contraction speeds than Type I fibers, but are more fatigable and have lower oxidative capacity.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the role of the Golgi tendon organ in muscle function?",
+    "options": {
+      "A": "To increase muscle tension during heavy lifting",
+      "B": "To inhibit muscle activation when excessive tension develops",
+      "C": "To store calcium for muscle contraction",
+      "D": "To generate action potentials in muscle fibers"
+    },
+    "correct_answer": "B",
+    "explanation": "Golgi tendon organs (GTOs) are proprioceptors that inhibit muscle activation when excessive tension develops, providing a protective mechanism against injury.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sequence correctly describes the events in the sliding filament theory?",
+    "options": {
+      "A": "ATP binding \u2192 crossbridge attachment \u2192 power stroke \u2192 ADP release",
+      "B": "Calcium release \u2192 ATP splitting \u2192 power stroke \u2192 crossbridge detachment",
+      "C": "ATP splitting \u2192 crossbridge formation \u2192 power stroke \u2192 ATP binding \u2192 detachment",
+      "D": "Calcium binding \u2192 ATP release \u2192 crossbridge formation \u2192 power stroke"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct sequence involves ATP splitting to energize the myosin head, crossbridge formation with actin, the power stroke pulling actin, followed by ATP binding to allow detachment and reset of the cycle.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How does motor unit recruitment pattern affect muscle force production?",
+    "options": {
+      "A": "Only through changes in firing frequency",
+      "B": "Only through recruitment of additional motor units",
+      "C": "Through both firing frequency and number of motor units recruited",
+      "D": "Through changes in muscle fiber type"
+    },
+    "correct_answer": "C",
+    "explanation": "Muscle force can be varied through both changes in firing frequency of individual motor units and through recruitment of additional motor units, with the specific pattern depending on muscle size and function.",
+    "chapter": "chapter 1"
+  },
+  {
+    "difficulty": "Intense",
+    "question": "Which combination of physiological changes would optimize force production in a maximal voluntary contraction?",
+    "options": {
+      "A": "Increased calcium release, maximized motor unit recruitment, optimal sarcomere length, and ATP availability",
+      "B": "Increased blood flow, muscle temperature elevation, and motor unit synchronization",
+      "C": "Maximized muscle spindle activation, increased muscle glycogen, and motor unit recruitment",
+      "D": "Enhanced GTO inhibition, increased calcium sensitivity, and maximized crossbridge formation"
+    },
+    "correct_answer": "A",
+    "explanation": "Maximal force production requires optimal calcium release to enable crossbridge formation, full recruitment of available motor units, optimal sarcomere length for maximum actin-myosin overlap, and sufficient ATP availability for crossbridge cycling.",
+    "chapter": "chapter 1"
+  }
+]
